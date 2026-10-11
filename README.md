@@ -62,7 +62,7 @@ SmartRetail-BI-BigData/
    | `11_seguridad.sql` | Roles `analyst_user` y `etl_service` y pruebas de permisos |
 
 2. Verificar con el script 10: reconciliación **4 090 = 168 rechazadas + 3 922 cargadas**.
-3. Abrir `powerbi/SmartRetail.pbix`, cambiar el origen al servidor local si es necesario (*Transformar datos → Configuración de origen de datos*) y pulsar **Actualizar**.
+3. Abrir `powerbi/KPIS SmartRetail`, cambiar el origen al servidor local si es necesario (*Transformar datos → Configuración de origen de datos*) y pulsar **Actualizar**.
 
 ## Cómo reproducir la solución Big Data
 
